@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sholomsero123@gmail.com
+	name = sholom serebryanski
